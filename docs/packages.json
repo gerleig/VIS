@@ -3,14 +3,14 @@
     "packages": [
         {
             "name": "Light Modpack",
-            "title": "Light Modpack",
+            "title": "Modpack 1",
             "version": "20100223",
             "location": "lightpack.json",
             "priority": 1
         },
         {
             "name": "Monster Modpack",
-            "title": "Monster Modpack",
+            "title": "Modpack 2",
             "version": "20100223",
             "location": "monsterpack.json",
             "priority": 1
